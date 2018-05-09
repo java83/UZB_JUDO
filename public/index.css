@@ -1,0 +1,23 @@
+#body{
+    margin: 10% 20%;
+  background-image: url("https://media.gettyimages.com/photos/bronze-medalist-miran-sakhatov-jaloliddin-khamrokulov-mansur-doniyor-picture-id604282674?s=612x612");
+    background-size: cover;
+
+}
+.center{
+    text-align: center;
+    color: #ff2407;
+
+}
+.salavha{
+    text-align: center;
+    color:black;
+}
+.irc_mi {
+
+    background-image: -webkit-linear-gradient(45deg,#efefef 25%,transparent 25%,transparent 75%,#efefef 75%,#efefef),-webkit-linear-gradient(45deg,#efefef 25%,transparent 25%,transparent 75%,#efefef 75%,#efefef);
+    background-position: 0 0,10px 10px;
+    -webkit-background-size: 21px 21px;
+    border: 0;
+
+}
